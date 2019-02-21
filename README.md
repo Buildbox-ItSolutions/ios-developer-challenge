@@ -9,16 +9,20 @@ O Desafio iOS é o seguinte:
 Monte um aplicativo para iOS, utilizando Swift, que consuma uma API REST e mostre uma lista de dados, ao clicar em um dos itens desta lista, uma segunda tela é mostrada contendo mais informações sobre aquele item.
 
 Tente colocar ao máximo todos os recursos técnicos que você conhece, quando se trata de padrão de arquitetura, boas práticas de código, features nativas do iOS etc. 
-Mas não se esqueça que nosso grande e querido usuário não vê as rotinas assíncronas majestosas que todos nós escrevemos, sendo assim, tente criar uma interface bem legal, objetiva e agradável. 
+Sinta-se livre para adicionar features que ache necessário no aplicativo e utilizar bibliotecas de terceiros.
+Tente criar uma interface bem legal, objetiva e agradável. 
 Colocamos também um link para um repositório no Zeplin contendo uma sugestão de interface.
 
-Você deve fazer um Fork deste repositório e solicitar um Pull Request, com seu nome completo na descrição, para nossa avaliação.
+Você pode fazer um Fork deste repositório e solicitar um Pull Request com seu nome completo na descrição, ou criar seu próprio repositório e compartilhar conosco.
 
 Recomendamos algumas API’s abertas e gratuitas para estes teste, porém isto é apenas uma recomendação, se sinta livre para fazer outra escolha e nos surpreender ;).
 
 # API’s 
 ## The Open Movie Database
  [OMDb API - The Open Movie Database](http://www.omdbapi.com/)
+
+## Pokemon API
+[Poké API](https://pokeapi.co/)
 
 # Design - Zeplin
 E-mail - buildbox.mobileguest@gmail.com
