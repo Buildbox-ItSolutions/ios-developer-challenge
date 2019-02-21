@@ -6,7 +6,7 @@ Este desafio consiste em identificar seu nível de conforto com desenvolvimento 
 
 O Desafio iOS é o seguinte:
 
-Monte um aplicativo para iOS, utilizando Swift, que consuma uma API REST e mostre uma lista de dados, ao clicar em um dos itens desta lista, uma segunda tela é mostrada contendo mais informações sobre aquele item.
+Monte um aplicativo para iOS, utilizando Swift, que consuma uma API REST e mostre uma lista de dados. Deve ser possível buscar um item nesta lista. Ao clicar em um dos itens, uma segunda tela é mostrada contendo mais informações sobre aquele item.
 
 Tente colocar ao máximo todos os recursos técnicos que você conhece, quando se trata de padrão de arquitetura, boas práticas de código, features nativas do iOS etc. 
 Sinta-se livre para adicionar features que ache necessário no aplicativo e utilizar bibliotecas de terceiros.
@@ -27,5 +27,14 @@ Recomendamos algumas API’s abertas e gratuitas para estes teste, porém isto �
 # Design - Zeplin
 E-mail - buildbox.mobileguest@gmail.com
 Senha - JhZ5dAPG
+
+# Referências
+
+https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm
+https://github.com/Moya/Moya
+https://github.com/SwiftyJSON/SwiftyJSON
+https://github.com/ReactiveX/RxSwift
+https://github.com/robb/Cartography
+https://github.com/hackiftekhar/IQKeyboardManager
 
 [Zeplin](https://app.zeplin.io/login)
