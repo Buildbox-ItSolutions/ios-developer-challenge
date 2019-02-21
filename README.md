@@ -31,10 +31,15 @@ Senha - JhZ5dAPG
 # Referências
 
 https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm
+
 https://github.com/Moya/Moya
+
 https://github.com/SwiftyJSON/SwiftyJSON
+
 https://github.com/ReactiveX/RxSwift
+
 https://github.com/robb/Cartography
+
 https://github.com/hackiftekhar/IQKeyboardManager
 
 [Zeplin](https://app.zeplin.io/login)
