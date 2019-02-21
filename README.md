@@ -27,6 +27,7 @@ Recomendamos algumas API’s abertas e gratuitas para estes teste, porém isto �
 # Design - Zeplin
 E-mail - buildbox.mobileguest@gmail.com
 Senha - JhZ5dAPG
+[Zeplin](https://app.zeplin.io/login)
 
 # Referências
 
@@ -41,5 +42,3 @@ https://github.com/ReactiveX/RxSwift
 https://github.com/robb/Cartography
 
 https://github.com/hackiftekhar/IQKeyboardManager
-
-[Zeplin](https://app.zeplin.io/login)
