@@ -29,7 +29,7 @@ E-mail - buildbox.mobileguest@gmail.com
 Senha - JhZ5dAPG
 [Zeplin](https://app.zeplin.io/login)
 
-# Referências
+# Referências Técnicas
 
 https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm
 
